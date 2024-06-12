@@ -38,7 +38,7 @@ They have provided multiple attributes around Employee's past and current perfor
 | is_promoted	| (Target) Recommended for promotion |
  
 ### Evaluation Metric:
-The evaluation metric for this competition is F1 Score.
+The evaluation metric for this competition is Accuracy,F1 Score.
 
 ### Public and Private Split:
 Test data is further randomly divided into Public (40%) and Private (60%) data.
